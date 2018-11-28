@@ -1,7 +1,7 @@
 /**
  * Provides access to basic micro:bit functionality.
  */
-//% color=190 weight=100 icon="\uf2db" block="Kodarklubben"
+//% color=#ff0062 weight=100 icon="\uf2db" block="Kodarklubben"
 namespace kodarklubben {
 
     //% blockId=kodarklubben_spiral
